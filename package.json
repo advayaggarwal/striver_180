@@ -1,0 +1,15 @@
+{
+  "name": "striver180",
+  "version": "1.0.0",
+  "description": "\"180DSA\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Striver_180"
+  },
+  "author": "Advay_and_Mithil",
+  "license": "ISC"
+}
